@@ -1,0 +1,12 @@
+.topimg{
+    width: 100px;
+}
+h4{
+    color: white;
+}
+.nav-item:hover{
+    border-bottom: 1px solid white;
+    transition: 0.5s;
+    transform: scale(1.04);
+
+}
