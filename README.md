@@ -3,7 +3,6 @@
 A beginner-friendly **Netflix homepage clone** built using **React**, **Firebase**, and **TMDb API**. This was one of my earliest projects, built to understand React fundamentals, API integration, and deploying on Firebase.
 
 🌐 **Live Demo**: [mitflix-ft.web.app](https://mitflix-ft.web.app)  
-📁 **GitHub Repo**: [github.com/mithunshanker/mitflix](https://github.com/mithunshanker/mitflix)
 
 ---
 
